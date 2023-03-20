@@ -4,7 +4,7 @@ Select country and get list of universities.
 RecyclerView, Retrofit
 
 Dependencies
-// retrofit
+    // retrofit
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
 
     // GSON
