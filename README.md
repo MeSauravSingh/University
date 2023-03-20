@@ -3,7 +3,7 @@ Select country and get list of universities.
 # Implementations
 RecyclerView, Retrofit
 
-Dependencies
+# Dependencies
     // retrofit
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
 
